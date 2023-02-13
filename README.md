@@ -6,4 +6,5 @@
 ### Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskorz&langs_count=8)](https://github.com/lucaskorz)
 
+### Contribuições:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaskorz&theme=highcontrast" alt="lucaskorz" /></p>
