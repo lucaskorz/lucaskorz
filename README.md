@@ -1,10 +1,8 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lucas!
+# Lucas Korz
 
-💻 &nbsp;Software Developer Frontend at Sisplan Sistemas <br>
-🏡 &nbsp;Brazilian, Based in Indaial - SC 
+Fullstack developer at Sisplan Sistemas
 
-### Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskorz&langs_count=8)](https://github.com/lucaskorz)
+[![Twitter Badge](https://img.shields.io/badge/-@lucaskorzoff-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/lucaskorz)](https://twitter.com/lucaskorzoff)  
+[![Gmail Badge](https://img.shields.io/badge/-lucaskorz10@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaskorz10@gmail.com)](mailto:lucaskorz10@gmail.com)
 
-### Contribuições:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaskorz&theme=highcontrast" alt="lucaskorz" /></p>
+Enthusiast of the best web & mobile development technologies.
